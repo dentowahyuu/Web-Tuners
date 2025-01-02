@@ -58,7 +58,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Kokorody/Gojira-Tuners.git
+    https://github.com/dentowahyuu/Web-Tuners.git
     ```
 
 2. Navigate to the project directory:
