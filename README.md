@@ -64,7 +64,7 @@
 2. Navigate to the project directory:
 
     ```bash
-    cd Gojira-Tuners
+    cd Web-Tuners
     ```
 
 ### Function
